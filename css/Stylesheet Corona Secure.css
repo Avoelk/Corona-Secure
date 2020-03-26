@@ -251,8 +251,6 @@ Header Bereich
 .Titel h1 {
   color:rgba(255,255,255,1.00);
   font-size: 500%;
-  text-shadow: 0px 0px 1px rgba(255,255,255,1.00);
-  text-shadow: 0px 0px 3px rgba(232,196,130,0.98);
   margin-bottom: -2%;
   }
   
@@ -723,8 +721,8 @@ a.extern:active {
   }
   
 a.extern:hover {
-  color: rgba(255,255,255,0.80);
-  font-size: 101.5%;
+  color: rgba(253,0,255,0.80);
+  font-size: 103.5%;
     transition: 1s;
   }
 
@@ -762,9 +760,6 @@ a.extern:hover {
   padding: 50px 0;
 }
 
-i.amazon {
-float: right;
-	font-size: 12rem;
-}
+
 /* CSS Document */
 
