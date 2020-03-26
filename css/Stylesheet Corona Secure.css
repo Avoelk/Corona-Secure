@@ -1,36 +1,36 @@
 @charset "utf-8";
 
 body {
-  background-image: url( "../img/AdobeStock_299326417_Preview.jpeg");
+  background-image: url( "../img/maschine-1920-1080.jpg");
 }
 
 @media (min-width: 500px) {
   body {
-    background-image: url( "../img/AdobeStock_299326417_Preview.jpeg");
+    background-image: url( "../img/maschine-1920-1080.jpg");
   }
 }
 
 @media (min-width: 1000px) {
   body {
-    background-image: url( "../img/AdobeStock_299326417_Preview.jpeg");
+    background-image: url( "../img/maschine-1920-1080.jpg");
   }
 }
 
 @media (min-width: 1500px) {
   body {
-    background-image: url( "../img/AdobeStock_299326417_Preview.jpeg");
+    background-image: url( "../img/maschine-1920-1080.jpg");
   }
 }
 
 @media (min-width: 2000px) {
   body {
-    background-image: url( "../img/AdobeStock_299326417_Preview.jpeg");
+    background-image: url( "../img/maschine-1920-1080.jpg");
   }
 }
 
   
 body { 
-  font-size: 16px;
+  font-size: 14px;
   font-family: 'play', sans-serif;
   background-size: cover;
   background-position: center;
